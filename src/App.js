@@ -5,8 +5,7 @@ function App() {
   return (
     <div className="App">
       <>
-      nothing
-      kem choposcksdlc,sd
+      ddd
       </>
     </div>
   );
